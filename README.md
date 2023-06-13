@@ -22,6 +22,6 @@ Beyond the thrill of competition, this program adds an element of surprise and s
 
 ### Suggestions Welcome
 
-The Minecraft Challenge Generator is an evolving project, and suggestions for new challenges, improvements, and features are always welcome. The development team is committed to enhancing the experience and delivering even more excitement to the Minecraft Speedrunning community.
+The Ranked Challenge Generator is an evolving project, and suggestions for new challenges, improvements, and features are always welcome. The development team is committed to enhancing the experience and delivering even more excitement to the Minecraft Speedrunning community.
 
 Note: If you have any specific questions or would like further information on how to use the Minecraft Challenge Generator, please don't hesitate to ask. I'm here to assist you on your speedrunning journey!
